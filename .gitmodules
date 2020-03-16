@@ -1,0 +1,4 @@
+[submodule "testRepoBoost"]
+	path = testRepoBoost
+	url = https://github.com/dmitry-shibanov/testRepoBoost.git
+	branch = master
