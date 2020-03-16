@@ -2,3 +2,7 @@
 	path = testRepoBoost
 	url = https://github.com/dmitry-shibanov/testRepoBoost.git
 	branch = master
+[submodule "slider"]
+	path = slider
+	url = https://github.com/dmitry-shibanov/slider.git
+	branch = master
